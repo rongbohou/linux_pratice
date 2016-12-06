@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/fifo_write.dir/fifo_write.c.o  -o ../../../bin/8_process_commu/fifo_write  -L/home/bobo/code/linux__pratice/lib -rdynamic 

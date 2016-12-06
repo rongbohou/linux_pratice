@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/attr_thread.dir/attr_thread.c.o  -o ../../../bin/9_multi_thread/attr_thread  -L/home/bobo/code/linux__pratice/lib -rdynamic -lpthread -Wl,-rpath,/home/bobo/code/linux__pratice/lib 

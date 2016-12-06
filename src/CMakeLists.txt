@@ -1,0 +1,7 @@
+#增加子文件夹，也就是进入源代码文件夹继续构建
+#ADD_SUBDIRECTORY(6_file_IO 6_file_IO)
+ADD_SUBDIRECTORY(7_process_contr 7_process_contr)
+ADD_SUBDIRECTORY(8_process_commu 8_process_commu)
+ADD_SUBDIRECTORY(9_multi_thread 9_multi_thread)
+#ADD_SUBDIRECTORY(10_netword_prog 10_netword_prog)
+

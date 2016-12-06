@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bobo/code/linux__pratice/src/8_process_commu/alarm.c
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+

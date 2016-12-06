@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/msg.dir/msg.c.o  -o ../../../bin/8_process_commu/msg  -L/home/bobo/code/linux__pratice/lib -rdynamic 

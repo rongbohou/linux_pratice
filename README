@@ -1,0 +1,20 @@
+# linux_pratice
+**Authors:** rongbohou, email:rongbohou@163.com
+
+some basic of multi-thread programming
+
+
+# Require: 
+pthead
+
+# build
+mkdir build ＆＆ cd build 
+cmake  .. 
+make 
+
+# usage
+
+#reference:
+
+《嵌入式linux应用程序开发详解》
+

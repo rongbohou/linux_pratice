@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/sem_syn.dir/sem_syn.c.o  -o ../../../bin/9_multi_thread/sem_syn  -L/home/bobo/code/linux__pratice/lib -rdynamic -lpthread -Wl,-rpath,/home/bobo/code/linux__pratice/lib 

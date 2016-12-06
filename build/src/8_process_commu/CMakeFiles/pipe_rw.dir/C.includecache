@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bobo/code/linux__pratice/src/8_process_commu/pipe_rw.c
+unistd.h
+-
+sys/types.h
+-
+errno.h
+-
+stdio.h
+-
+stdlib.h
+-
+

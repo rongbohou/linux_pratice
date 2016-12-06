@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/sem_num.dir/sem_num.c.o  -o ../../../bin/9_multi_thread/sem_num  -L/home/bobo/code/linux__pratice/lib -rdynamic -lpthread -Wl,-rpath,/home/bobo/code/linux__pratice/lib 

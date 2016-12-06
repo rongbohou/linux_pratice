@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/share_memory.dir/share_memory.c.o  -o ../../../bin/8_process_commu/share_memory  -L/home/bobo/code/linux__pratice/lib -rdynamic 

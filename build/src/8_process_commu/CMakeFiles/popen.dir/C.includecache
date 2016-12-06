@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bobo/code/linux__pratice/src/8_process_commu/popen.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+fcntl.h
+-
+

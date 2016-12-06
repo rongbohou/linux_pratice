@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bobo/code/linux__pratice/src/8_process_commu/kill.c
+stdio.h
+-
+stdlib.h
+-
+signal.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+

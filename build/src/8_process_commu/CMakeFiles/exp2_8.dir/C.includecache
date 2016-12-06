@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bobo/code/linux__pratice/src/8_process_commu/exp2.c
+sys/types.h
+-
+sys/ipc.h
+-
+sys/shm.h
+-
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+
