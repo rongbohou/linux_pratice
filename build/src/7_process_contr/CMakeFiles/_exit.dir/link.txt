@@ -1,1 +1,0 @@
-/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/_exit.dir/_exit.c.o  -o ../../../bin/7_process_contr/_exit  -L/home/bobo/code/linux__pratice/lib -rdynamic 

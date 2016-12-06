@@ -1,1 +1,0 @@
-/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/pipe.dir/pipe.c.o  -o ../../../bin/8_process_commu/pipe  -L/home/bobo/code/linux__pratice/lib -rdynamic 

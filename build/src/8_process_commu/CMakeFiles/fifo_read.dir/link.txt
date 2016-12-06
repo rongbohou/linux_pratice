@@ -1,1 +1,0 @@
-/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/fifo_read.dir/fifo_read.c.o  -o ../../../bin/8_process_commu/fifo_read  -L/home/bobo/code/linux__pratice/lib -rdynamic 

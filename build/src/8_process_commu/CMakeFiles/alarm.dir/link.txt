@@ -1,1 +1,0 @@
-/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/alarm.dir/alarm.c.o  -o ../../../bin/8_process_commu/alarm  -L/home/bobo/code/linux__pratice/lib -rdynamic 

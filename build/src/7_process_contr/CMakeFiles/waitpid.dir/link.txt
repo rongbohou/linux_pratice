@@ -1,1 +1,0 @@
-/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/waitpid.dir/waitpid.c.o  -o ../../../bin/7_process_contr/waitpid  -L/home/bobo/code/linux__pratice/lib -rdynamic 

@@ -1,1 +1,0 @@
-/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/exp1.dir/exp1.c.o  -o ../../../bin/9_multi_thread/exp1  -L/home/bobo/code/linux__pratice/lib -rdynamic -lpthread -Wl,-rpath,/home/bobo/code/linux__pratice/lib 

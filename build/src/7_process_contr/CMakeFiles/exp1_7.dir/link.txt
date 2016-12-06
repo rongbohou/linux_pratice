@@ -1,1 +1,0 @@
-/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/exp1_7.dir/exp1.c.o  -o ../../../bin/7_process_contr/exp1_7  -L/home/bobo/code/linux__pratice/lib -rdynamic 

@@ -1,1 +1,0 @@
-/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/kill.dir/kill.c.o  -o ../../../bin/8_process_commu/kill  -L/home/bobo/code/linux__pratice/lib -rdynamic 
