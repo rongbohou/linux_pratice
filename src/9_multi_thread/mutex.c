@@ -48,7 +48,8 @@ void pthread1(void *arg)
 		}
 		else
 			printf("pthread1:pthread1 unlock the variable\n");
-	sleep(1);
+	//sleep(1);//
+        sleep(1);
 	}
 }
 
@@ -58,7 +59,7 @@ void pthread2(void *arg)
 	int ret;
 	while(time(NULL) < end_time){
 		ret=pthread_mutex_trylock(&mutex);
-		if(ret==EBUSY)
+		if(ret==EBUSY)//挂起
 			printf("pthread2:the variable is locked by pthread1\n");
 		else{
 			if(ret!=0){
@@ -73,7 +74,7 @@ void pthread2(void *arg)
 			 else
 				printf("pthread2:pthread2 unlock the variable\n");
 		}
-		sleep(3);
+		sleep(1);
 	}
 }
 

@@ -4,4 +4,6 @@ ADD_SUBDIRECTORY(7_process_contr 7_process_contr)
 ADD_SUBDIRECTORY(8_process_commu 8_process_commu)
 ADD_SUBDIRECTORY(9_multi_thread 9_multi_thread)
 #ADD_SUBDIRECTORY(10_netword_prog 10_netword_prog)
+ADD_SUBDIRECTORY(boost_thread boost_thread)
+ADD_SUBDIRECTORY(std_thread std_thread)
 

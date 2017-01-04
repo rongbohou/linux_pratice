@@ -8,7 +8,7 @@ void thread1(void)
 		printf("This is a pthread1.\n");
 		if(i==2)
 			pthread_exit(0);
-		sleep(1);
+		sleep(1);//延时1秒
 		}
 }
 
@@ -36,6 +36,6 @@ int main(void)
 	}
 	pthread_join(id1,NULL);
 	pthread_join(id2,NULL);
-	exit (0);
+	exit (0);//0为正常结束，非0，进程非正常结束
 }
 
